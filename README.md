@@ -3,9 +3,9 @@
 Erstelle einen eigenen Adventskalender. Nutzerinnen und Nutzer können dann im Dezember bis Heiligabend jeden Tag ein virtuelles Türchen öffnen.
 So gehst Du vor:
 
-1. Wenn Du das hier liest, hast Du die Vorlage wahrsvheinlich schon remixt. Wenn nicht, dann klicke auf den folgenden Button: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/adventskalender)
+1. Wenn Du das hier liest, hast Du die Vorlage wahrscheinlich schon remixt. Wenn nicht, dann klicke auf den folgenden Button: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/adventskalender)
 2. Wähle eine URL für Deinen Adventskalender. Dazu änderst Du den beim Remix generierten Zufallsnamen links oben in der Ecke. Den fertigen Kalender findest Du dann unter https://deingewahltername.glitch.me
-3. Öffne nacheinander die 'Türchen' in der Dateiliste in der linken Spalten. Damit man sie nicht einfach erraten kann, haben sie nicht nur die Form '1dez.html", sondern 'TAGdez-UNDEINPAARBUCHSTABEN.html'. Du kannst dort Videos, Bilder, Links Text oder alles, was Du sonst willst einfügen.
+3. Öffne nacheinander die 'Türchen' in der Dateiliste in der linken Spalten. Damit man sie nicht einfach erraten kann, haben sie nicht nur die Form '1dez.html", sondern 'TAGdez-UNDEINPAARBUCHSTABEN.html'. Du kannst dort Videos, Bilder, Links Text oder alles, was Du sonst willst einfügen. (Die paar Buchstaben haben den Zweck, dass Nutzer/innen nicht schon vorher den Link der Türchen erraten und spicken können)
 
 Im Dezember wird jeden Tag ein Türchen freigeschalten. Die Zahl ist dann mit einem goldenen Kreis umrandet und das Bild ist verlinkt zum jeweiligen Türchen-Inhalt.
 
